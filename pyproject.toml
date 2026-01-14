@@ -1,10 +1,10 @@
 [project]
 name = "harlequin-clickhouse-adapter"
-version = "0.1.0"
+version = "0.1.1"
 description = "A Harlequin adapter for ClickHouse."
 readme = "README.md"
 requires-python = ">=3.8.1,<4.0"
-authors = [{ name = "Harlequin ClickHouse Adapter contributors" }]
+authors = [{ name = "Artem Gromov" }]
 dependencies = [
     "clickhouse-driver>=0.2.6",
     "harlequin>=1.7,<3",
