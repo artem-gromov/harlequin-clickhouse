@@ -1,5 +1,5 @@
 [project]
-name = "harlequin-clickhouse"
+name = "harlequin-clickhouse-adapter"
 version = "0.1.0"
 description = "A Harlequin adapter for ClickHouse."
 readme = "README.md"

@@ -1,4 +1,4 @@
-# harlequin-clickhouse
+# harlequin-clickhouse-adapter
 
 A ClickHouse adapter for [Harlequin](https://harlequin.sh) built on `clickhouse-driver`.
 
@@ -7,7 +7,7 @@ A ClickHouse adapter for [Harlequin](https://harlequin.sh) built on `clickhouse-
 Using `uv`:
 
 ```bash
-uv pip install harlequin-clickhouse
+uv pip install harlequin-clickhouse-adapter
 ```
 
 From source:
