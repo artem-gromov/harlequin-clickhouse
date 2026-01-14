@@ -1,6 +1,6 @@
 [project]
 name = "harlequin-clickhouse-adapter"
-version = "0.1.1"
+version = "0.1.2"
 description = "A Harlequin adapter for ClickHouse."
 readme = "README.md"
 requires-python = ">=3.8.1,<4.0"
