@@ -10,6 +10,12 @@ Using `uv`:
 uv pip install harlequin-clickhouse-adapter
 ```
 
+Using `pip`:
+
+```bash
+pip install harlequin-clickhouse-adapter
+```
+
 From source:
 
 ```bash
